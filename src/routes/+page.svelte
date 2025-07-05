@@ -134,7 +134,9 @@
             <div class="chat-header">
               Pengunjung
             </div>
-            <div class="chat-bubble">Sama-sama!</div>
+            <div class="chat-bubble p-0">
+                <img src="stiker.jpg" alt="Stiker Jempol" class="rounded-lg max-w-32 sm:max-w-40" />
+            </div>
           </div>
       </div>
     </div>
