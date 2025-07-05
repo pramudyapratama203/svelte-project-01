@@ -132,7 +132,7 @@
               </div>
             </div>
             <div class="chat-header">
-              Pengunjung
+              Visitor
             </div>
             <div class="chat-bubble p-0">
                 <img src="stiker.jpg" alt="Stiker Jempol" class="rounded-lg max-w-32 sm:max-w-40" />
