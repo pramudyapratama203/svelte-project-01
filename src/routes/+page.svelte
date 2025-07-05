@@ -102,7 +102,7 @@
             <div class="flex-row items-center justify-center">
               <div class="avatar">
                 <div class="w-10 rounded-xl">
-                 <a href="https://www.linkedin.com/in/putu-pramudya-pratama-b9aa0a326/"><img src="linkedin.png" /></a>
+                 <a href="https://www.linkedin.com/in/putu-pramudya-pratama-b9aa0a326/"><img src="foto.jpeg" /></a>
                 </div>
               </div>
             </div>
