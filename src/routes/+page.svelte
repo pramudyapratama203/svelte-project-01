@@ -1,59 +1,142 @@
+<div class="hero min-h-screen">
+  <div class="hero-content text-center flex-col p-4 sm:p-6 md:p-8">
+    
+    <div class="max-w-md md:max-w-lg lg:max-w-2xl">
+      <div class="avatar avatar-online">
+        <div class="w-32 sm:w-40 rounded-full">
+          <img src="mc.jpg"/>
+        </div>
+      </div>
 
-<!-- Hero Section -->
-<div class="hero min-h-screen bg-base-100">
-	<div class="hero-content text-center container mx-auto px-4">
-		<div class="max-w-md w-full">
-			<div class="avatar avatar-online">
-				<div class="w-40 rounded-full mx-auto">
-					<img src="/mc.jpg" alt="Foto profile" />
-				</div>
-			</div>
+      <h1 class="text-3xl sm:text-4xl font-bold mt-4">Putu Pramudya Pratama</h1>
+      <p class="italic text-base sm:text-lg">
+        Software Engineer
+      </p>
 
-			<h1 class="text-3xl font-bold mt-4">Putu Pramudya Pratama</h1>
-			<p class="italic">Backend Software Engineer</p>
+      <p class="mt-3 px-2 sm:px-0">I'm a backend-focused Software Engineer. I enjoy working with APIs, 
+        databases, and server-side logic to build reliable and scalable applications.
+      </p>
 
-			<p class="mt-4 text-sm text-gray-700 dark:text-gray-300">
-				I’m a backend-focused Software Engineer passionate about building scalable systems,
-				managing databases, and developing clean APIs. I enjoy working with technologies
-				like Go, Java, and SQL to solve real-world problems.
-			</p>
+      <div class="flex flex-row flex-wrap justify-center items-center mt-4 gap-2">
+        <div class="avatar">
+          <div class="w-8 rounded-xl">
+            <img src="java.png" />
+          </div>
+        </div>
+        <div class="avatar">
+          <div class="w-8 rounded-xl">
+            <img src="go.png" />
+          </div>
+        </div>
+        <div class="avatar">
+          <div class="w-8 rounded-xl">
+            <img src="svelte.png" />
+          </div>
+        </div>
+        <div class="avatar">
+          <div class="w-8 rounded-xl">
+            <img src="figma.png" />
+          </div>
+        </div>
+        <div class="avatar">
+          <div class="w-8 rounded-xl">
+            <img src="mysql.png" />
+          </div>
+        </div>
+        <div class="avatar">
+          <div class="w-8 rounded-xl">
+            <img src="postgree.png" />
+          </div>
+        </div>
+        <div class="avatar">
+          <div class="w-8 rounded-xl">
+            <img src="mongodb.png" />
+          </div>
+        </div>
+        <div class="avatar">
+          <div class="w-8 rounded-xl">
+            <img src="redis.png" />
+          </div>
+        </div>
+        <div class="avatar">
+          <div class="w-8 rounded-xl">
+            <img src="postman.png" />
+          </div>
+        </div>
+      </div>
 
-			<!-- Tech Stack Icons -->
-			<div class="flex flex-wrap justify-center items-center gap-4 mt-6">
-				<img src="/java.png" alt="Java" class="w-8 h-8" />
-				<img src="/go.png" alt="Go" class="w-8 h-8" />
-				<img src="/mysql.png" alt="MySQL" class="w-8 h-8" />
-				<img src="/postgree.png" alt="PostgreSQL" class="w-8 h-8" />
-				<img src="/github.png" alt="GitHub" class="w-8 h-8" />
-				<img src="/postman.png" alt="Vercel" class="w-8 h-8" />
-			</div>
-		</div>
-	</div>
-</div>
+      <div class="mt-12 sm:mt-16 md:mt-20">
+        <div class="stats shadow stats-vertical md:stats-horizontal">
+          <div class="stat">
+            <div class="stat-figure text-primary">
+            </div>
+            <div class="stat-title">Github</div>
+            <div class="flex-row items-center justify-center">
+              <div class="avatar">
+                <div class="w-10 rounded-xl">
+                  <a href="https://github.com/pramudyapratama203"><img src="github.png" /></a>
+                </div>
+              </div>
+            </div>
+            <div class="stat-desc">Follow me!</div>
+          </div>
 
-<!-- Stats Section -->
-<div class="w-full px-4 py-10">
-	<div class="stats shadow w-full max-w-4xl mx-auto flex flex-wrap justify-center gap-4 overflow-x-auto">
-		<div class="stat">
-			<div class="stat-title">Backend Projects</div>
-			<div class="stat-value">8+</div>
-		</div>
-		<div class="stat">
-			<div class="stat-title">APIs Deployed</div>
-			<div class="stat-value">15+</div>
-		</div>
-		<div class="stat">
-			<div class="stat-title">Databases Handled</div>
-			<div class="stat-value">5</div>
-		</div>
-	</div>
-</div>
+          <div class="stat">
+            <div class="stat-figure text-secondary">
+            </div>
+            <div class="stat-title">Instagram</div>
+            <div class="flex-row items-center justify-center">
+              <div class="avatar">
+                <div class="w-10 rounded-xl">
+                  <a href="https://www.instagram.com/pratamavision/"><img src="instagram.png" /></a>
+                </div>
+              </div>
+            </div>
+            <div class="stat-desc">Follow me!</div>
+          </div>
 
-<!-- Chat Section -->
-<div class="w-full max-w-md mx-auto px-4 pb-20">
-	<div class="chat chat-end">
-		<div class="chat-bubble">
-			Hello! Feel free to check my projects on GitHub.
-		</div>
-	</div>
+          <div class="stat">
+            <div class="stat-figure text-secondary">
+            </div>
+            <div class="stat-title">LinkedIn</div>
+            <div class="flex-row items-center justify-center">
+              <div class="avatar">
+                <div class="w-10 rounded-xl">
+                 <a href="https://www.linkedin.com/in/putu-pramudya-pratama-b9aa0a326/"><img src="linkedin.png" /></a>
+                </div>
+              </div>
+            </div>
+            <div class="stat-desc"><a href="https://www.linkedin.com/in/putu-pramudya-pratama-b9aa0a326/">Follow me!</a></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="mt-8 space-y-4">
+          <div class="chat chat-start">
+            <div class="chat-image avatar">
+              <div class="w-10 rounded-full">
+                <img alt="Tailwind CSS chat bubble component" src="mc.jpg" />
+              </div>
+            </div>
+            <div class="chat-header">
+              Pramudya Pratama
+            </div>
+            <div class="chat-bubble">Terima kasih sudah berkunjung!</div>
+            <div class="chat-footer opacity-50">Delivered</div>
+          </div>
+
+          <div class="chat chat-end">
+            <div class="chat-image avatar">
+              <div class="w-10 rounded-full">
+                <img alt="Tailwind CSS chat bubble component" src="herta.jpg" />
+              </div>
+            </div>
+            <div class="chat-header">
+              Pengunjung
+            </div>
+            <div class="chat-bubble">Sama-sama!</div>
+          </div>
+      </div>
+    </div>
+  </div>
 </div>
