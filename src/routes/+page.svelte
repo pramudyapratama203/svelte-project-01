@@ -23,9 +23,9 @@
 				<img src="/java.png" alt="Java" class="w-8 h-8" />
 				<img src="/go.png" alt="Go" class="w-8 h-8" />
 				<img src="/mysql.png" alt="MySQL" class="w-8 h-8" />
-				<img src="/postgre.png" alt="PostgreSQL" class="w-8 h-8" />
+				<img src="/postgree.png" alt="PostgreSQL" class="w-8 h-8" />
 				<img src="/github.png" alt="GitHub" class="w-8 h-8" />
-				<img src="/vercel.png" alt="Vercel" class="w-8 h-8" />
+				<img src="/postman.png" alt="Vercel" class="w-8 h-8" />
 			</div>
 		</div>
 	</div>
