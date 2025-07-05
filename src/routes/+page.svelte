@@ -121,7 +121,7 @@
             <div class="chat-header">
               Pramudya Pratama
             </div>
-            <div class="chat-bubble">Terima kasih sudah berkunjung!</div>
+            <div class="chat-bubble">Hello! Feel free to check my projects on GitHub.</div>
             <div class="chat-footer opacity-50">Delivered</div>
           </div>
 
